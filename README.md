@@ -1,2 +1,2 @@
-# myproject
-this is my repository for uploading projects
+#final project
+this is our repository for uploading final projects
